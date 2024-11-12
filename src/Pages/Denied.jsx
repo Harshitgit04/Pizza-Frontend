@@ -27,4 +27,4 @@ function Denied() {
     )
 }
 
-export default Denied;
+export default Denied
